@@ -1,0 +1,11 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\kolab> curl -I https://github.com/BudakovNikolay/mcino-Introduction-to-Git-and-GitHub
+
+cmdlet Invoke-WebRequest at command pipeline position 1
+Supply values for the following parameters:
+Uri:
+PS C:\Users\kolab>
